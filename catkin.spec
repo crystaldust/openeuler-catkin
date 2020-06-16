@@ -1,5 +1,5 @@
 Name:		catkin
-Version:	0.7.26-1
+Version:	0.7.26
 Release:	1
 Summary:	This is ROS melodic Catkin Package
 License:	GPL
